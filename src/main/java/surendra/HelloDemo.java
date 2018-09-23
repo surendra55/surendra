@@ -8,6 +8,8 @@ public class HelloDemo {
 		System.out.println("HELLO WORLD1");
 		System.out.println("HELLO WORLD2");
 		System.out.println("HELLO WORLD2");
+		System.out.println("HELLO WORLD2");
+	}
 	
 	}
 
